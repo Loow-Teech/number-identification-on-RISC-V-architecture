@@ -5,3 +5,4 @@ A number identification app by C++ and OpenCV.
     clang 11.0.3
     OpenCV 4.1.2
 ## result
+![](https://github.com/Loow-Teech/number_identification/blob/master/results.png)
