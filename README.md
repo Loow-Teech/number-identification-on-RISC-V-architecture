@@ -6,9 +6,10 @@ A number identification app by C++/Python and OpenCV.
     OpenCV 4.1.2
     Python 3.6
 ## method
-    We thought about the identification of each number, and if we slice them with two threshold horizontally,  
+      We thought about the identification of each number, and if we slice them with two threshold horizontally,  
     and one vertically, we will find the difference. We use different numbers to distinct the changes for   
     each numbers at threshold lines. The relationship between them is written in each code.  
-    The methods of template matching, deep learning, etc. are not suggested as it's hard to implement in riscv system.
+      The methods of template matching, deep learning, etc. are not suggested as it's hard to implement in   
+    riscv system.
 ## result
 ![](https://github.com/Loow-Teech/number_identification/blob/master/results.png)
