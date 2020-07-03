@@ -5,6 +5,7 @@ A number identification app by C++/Python and OpenCV.
     clang 11.0.3
     OpenCV 4.1.2
     Python 3.6
+    Debian sid riscv64 (LowRISC)
 ## method
       We thought about the identification of each number, and if we slice them with two threshold horizontally,  
     and one vertically, we will find the difference. We use different numbers to distinct the changes for   
